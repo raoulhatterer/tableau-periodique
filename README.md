@@ -1,3 +1,3 @@
 # tableau-periodique
 
-[Tableau périodique](tableau_periodique.pdf) des éléments en français avec tikz
+[Tableau périodique des éléments](tableau_periodique.pdf) en français avec tikz
